@@ -1,1 +1,2 @@
-# -Nancy-s-3D-Warrior-Game
+# Nancy-s-3D-Warrior-Game
+A 2-player terminal-based virtual board game written in Java. The game involved setting the number of playable boards and their dimensions, getting the players’ names, deciding who went first and then the players took turns moving through game boards towards the finishing point based on virtual dice rolls and dealing with in-game challenges such as energy unit adjustments based on the player’s location on a given board or when two players occupy the same spot on a given board.
